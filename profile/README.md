@@ -1,6 +1,6 @@
 # 👋 Welcome to DiLan
 
-[![DiLan's Edition](https://cdn.dilan.id/assets/logo/svg/29-dilan-badge-github-dilansedition.svg)](https://dilan.id)
+[![DiLan's Edition](https://cdn.dilan.id/assets/logo/svg/29-dilan-badge-github-dilansedition-sm.svg)](https://dilan.id)
 
 ![DiLan Banner](https://cdn.dilan.id/assets/logo/27-dilan-banner-github-repo.png)
 
