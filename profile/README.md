@@ -1,5 +1,7 @@
 # 👋 Welcome to DiLan
 
+[![DiLan's Edition](https://cdn.dilan.id/assets/logo/svg/29-dilan-badge-github-dilansedition.svg)](https://dilan.id)
+
 ![DiLan Banner](https://cdn.dilan.id/assets/logo/27-dilan-banner-github-repo.png)
 
 **DiLan** is a dynamic and innovative real-time platform, offering robust collaboration and communication services for various sectors such as education, healthcare, and career development. With advanced technology, we ensure smooth and efficient interactions among users.
