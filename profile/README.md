@@ -1,7 +1,5 @@
 # 👋 Welcome to DiLan
 
-[![DiLan's Edition](https://static.dilan.id/logo/extra/dilan-badge-github-dilansedition-sm.svg)](https://dilan.id)
-
 ![DiLan Card](https://static.dilan.id/logo/company/card.png)
 
 ## Elevate Your-Digital Experience
